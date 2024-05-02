@@ -1,0 +1,35 @@
+*{
+  box-sizing: border-box;
+}
+body{
+  margin: unset;
+  background-color: rgb(190, 190, 190);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  display: grid;
+  place-items: center;
+}
+img{
+  max-width: 100%;
+  height: auto;
+  border-radius: 5px;
+  }
+  main{
+    background-color: white;
+    max-width: 320px;
+    padding: 1rem;
+    border-radius: 10px;
+    margin-top: 30px;
+    box-shadow:black;
+  }
+  h1{
+    font-size: 20px;
+    line-height: 20px;
+    margin-top: 5px;
+    
+  }
+  p{
+    line-height: 15px;
+    text-align: center;
+
+  }
